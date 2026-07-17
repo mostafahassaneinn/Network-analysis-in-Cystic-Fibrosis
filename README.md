@@ -1,4 +1,4 @@
-# Network analysis in-Cystic Fibrosis
+# Network analysis in Cystic Fibrosis
 Finding altered pathways and associated diseases in Cystic Fibrosis
 
 ## Project Description
@@ -55,3 +55,5 @@ A Network of the first and second neighbours of the cystic fibrosis node --> add
 
 ### Conclusion
 In conclusion, the data demonstrates that Cystic Fibrosis pathogenesis involves a complex molecular cross-talk where lipid metabolic shifts and purinergic/G-protein signaling alterations are deeply interconnected. This state is driven by core hubs like EP300 and manifests phenotypically through disruptions in epithelial barrier integrity (CLDN1), hyper-reactive interferon/immune pathways (IFNGR2), and metabolic elements (INSIG1, MAOB).
+
+For source code, please contact m.hassanein@mumc.nl.
