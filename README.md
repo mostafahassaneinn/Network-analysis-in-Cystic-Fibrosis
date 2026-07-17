@@ -1,4 +1,4 @@
-# Network-analysis-in-Cystic-Fibrosis
+# Network analysis in-Cystic Fibrosis
 Finding altered pathways and associated diseases in Cystic Fibrosis
 
 ## Project Description
