@@ -50,7 +50,7 @@ A Network of the first and second neighbours of the cystic fibrosis node --> add
 ![Alt text for screen readers](https://github.com/mostafahassaneinn/Network-analysis-in-Cystic-Fibrosis/blob/main/outputs/Gene_Diseses_rare_diseases.png)
 
 #### Genes-Pathways network construction
-![Alt text for screen readers](https://github.com/mostafahassaneinn/Network-analysis-in-Cystic-Fibrosis/blob/main/outputs/Gene_pathways.png)
+![Alt text for screen readers](https://github.com/mostafahassaneinn/Network-analysis-in-Cystic-Fibrosis/blob/main/outputs/gene_pathways_network.png)
 *Gene-pathway network illustrates the genes that are directly connected to cystic fibrosis (CF) and pathways that are linked to these differentially expressed genes* 
 
 ### Conclusion
